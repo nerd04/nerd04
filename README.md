@@ -56,7 +56,7 @@ I enjoy building clean, maintainable applications and continuously improving my 
 ---
 
 ## 🤝 Connect With Me
-- 💼 GitHub: *You’re already here 😄*
+- 💼 GitHub: You’re already here 😄
 - 📫 Email: `mdkaifshaik11196@gmail.com`
 - 💬 Open to learning, collaboration, and mentorship
 
