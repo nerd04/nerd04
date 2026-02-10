@@ -1,4 +1,4 @@
-  <p><img src="https://drive.google.com/file/d/1NG7z9l0FgnHu9vkrQ7VzDy99ta2kKx5F/view?usp=drive_link" alt="MD KAIF Banner"></p>
+  <p><img src="https://drive.google.com/file/d/1NG7z9l0FgnHu9vkrQ7VzDy99ta2kKx5F/view" alt="MD KAIF Banner"></p>
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Md Kaif</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Md Kaif -->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
