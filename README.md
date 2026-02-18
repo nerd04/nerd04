@@ -33,15 +33,15 @@ I enjoy working across the stack, writing clean code, and continuously improving
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nerd04&show_icons=true&hide_title=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nerd04&layout=compact&hide_border=true)
 
 ---
 
 ## 🤝 Let’s Connect
 
-- **LinkedIn:** [https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/md-kaif-a417203a9/)  
-- **Portfolio:** https://yourwebsite.com  
+- **LinkedIn:** [https://www.linkedin.com/in/MdKaif](https://www.linkedin.com/in/md-kaif-a417203a9/)  
+- **Portfolio:** not yet deployed  
 - **Email:** mdkaifshaik11196@gmail.com
 
 ---
