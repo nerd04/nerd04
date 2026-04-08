@@ -10,7 +10,7 @@ I enjoy working across the stack, writing clean code, and continuously improving
 ## 🔧 Tech Stack
 
 **Languages**
-- c, python(basics), JavaScript, Java
+- JavaScript, Java, c, python(basics) 
 
 **Frameworks & Libraries**
 - React, Node.js, Express
