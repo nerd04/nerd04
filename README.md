@@ -1,6 +1,6 @@
 # Hi, I'm MD KAIF 👋
 
-**Software Engineer | Problem Solver | long life Learner**
+**Software Engineer | Problem Solver | Learner**
 
 I’m a software engineer focused on building reliable, scalable, and maintainable systems.  
 I enjoy working across the stack, writing clean code, and continuously improving my craft.
