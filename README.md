@@ -13,7 +13,7 @@ I enjoy working across the stack, writing clean code, and continuously improving
 - JavaScript, Java, c, python(basics) 
 
 **Frameworks & Libraries**
-- React, Node.js, Express
+- React, Node.js, Express, Spring MVC, Spring Boot, Hibernate
 
 **Databases**
 - SQL, MongoDB
